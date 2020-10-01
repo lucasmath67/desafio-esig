@@ -1,5 +1,5 @@
 <h3>Como Solucionei o Projeto </h3>
-<p> Solucionei o projeto proposto ,através da criação de um projeto em laravev com uma api de produtos, e um front-end web em react js pra consumir a api
+<p> Solucionei o projeto proposto ,através da criação de um projeto em laravel com uma api de produtos, e um front-end web em react js pra consumir a api
     
 </p>
 
@@ -53,7 +53,7 @@
 ### Acesar Web
 <ol> 
 <li>Acesse a pasta Api</li>
-  <li>de um "npm install"</li>
-  <li>agora de um "npm start" e acesse o projeto</li>
+  <li>De um "npm install"</li>
+  <li>Agora de um "npm start" e acesse o projeto</li>
   
  
