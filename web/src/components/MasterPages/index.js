@@ -1,0 +1,1 @@
+export { MasterPageForm } from './form';
