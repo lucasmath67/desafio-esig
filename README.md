@@ -52,7 +52,7 @@
         
 ### Acesar Web
 <ol> 
-<li>Acesse a pasta Api</li>
+<li>Acesse a pasta Web</li>
   <li>De um "npm install"</li>
   <li>Agora de um "npm start" e acesse o projeto</li>
   
